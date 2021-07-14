@@ -1,21 +1,19 @@
-# start git
+# 210714 오늘 배운거 정리
 
-## git 사용 전 필요한 내용
 
-## git이란
+--> 자세한 것은 velog에...
 
-## git 시작하는 법
 
-## git으로 project 시작하는 첫번째 방법: git init
+## 오전 수업
 
-## git으로 project 시작하는 두번째 방법: git clone
+기본적인 shell command에 대한 수업
 
-## Done
+## 오후 수업
 
-1. 나는 오늘 계획된 휴무를 했다.
-2. 양심상 conventional commit을 1독 했다.
+vim과 git, commit convention과 관련된 내용
+
 
 ## TODO
 
-1. 쉬기
-2. SICP js판 chapter.3 완독하기
+velog에 오늘 배운거 정리해서 올리기
+
