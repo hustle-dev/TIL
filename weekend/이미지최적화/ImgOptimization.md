@@ -491,7 +491,7 @@ IntersectionObserver의 callback 함수를 통해 생성된 객체의 배열의 
 - [IntersectionObserverEntry.target](https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserverEntry/target): 타겟 엘리먼트를 반환한다.
 - [IntersectionObserverEntry.time](https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserverEntry/time): 교차가 기록된 시간을 반환한다.
 
-3. 실사용 예제 
+3. 실사용 예제 (출처 : [링크](http://blog.hyeyoonjung.com/2019/01/09/intersectionobserver-tutorial/))  
 
 ```html
 <div class="example">
@@ -575,3 +575,11 @@ images.forEach((el) => {
 - [CSS sprites 기법](https://dev.eyegood.co.kr/entry/HTML5-CSS3-CSS-sprites-%EA%B8%B0%EB%B2%95)
 
 - [Fast load times](https://web.dev/fast/#optimize-your-images)
+
+- [Total Blocking Time (TBT)](https://web.dev/tbt/)
+
+- [Browser-level image lazy-loading for the web](https://web.dev/browser-level-image-lazy-loading/#images-should-include-dimension-attributes)
+
+- [웹 성능 최적화를 위한 Image Lazy Loading 기법](https://helloinyong.tistory.com/297#title-5)
+
+- [Intersection Observer API의 사용법과 활용방법](http://blog.hyeyoonjung.com/2019/01/09/intersectionobserver-tutorial/)
