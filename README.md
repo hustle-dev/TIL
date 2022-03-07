@@ -11,3 +11,7 @@ Today I Learned..
 ## 2022/02/03 ~
 
 [리액트 추가 수업 들으면서 공부 & 프로젝트 & 취준 중...]
+
+공부기록 정리는 주로 Notion + Velog에 하고있습니다.
+
+https://velog.io/@hustle-dev
